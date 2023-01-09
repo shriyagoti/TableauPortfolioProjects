@@ -9,7 +9,7 @@ An analysis of pizza sales at a fictitious pizza place is conducted using Tablea
 The dataset is obtained from Maven Analytics website. The data set consists of 4 tables which includes the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.
 
 
-# Recommended Analysis
+# Analysis on
 
 1. How many customers do we have each day? 
 
@@ -24,6 +24,6 @@ The dataset is obtained from Maven Analytics website. The data set consists of 4
 
 # References 
 
-Maven Analytics
+Datasource: Maven Analytics
 
 https://www.mavenanalytics.io/data-playground
